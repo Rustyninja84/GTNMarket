@@ -1,6 +1,1015 @@
 {
   "server": "Star Forge",
-  "source": "Not configured",
-  "updated_at": null,
-  "observations": []
+  "updated_at": "2026-10-12T09:51:00-04:00",
+  "source": "User-submitted screenshots; snapshot, NOT live",
+  "observations": [
+    {
+      "item": "Alliance Emissary's Upper Body Armor",
+      "price": 1500000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Single Wall Section (Vaiken Spacedock)",
+      "price": 1500000,
+      "quantity": 24,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Shipyard Wall Crane",
+      "price": 1550420,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Promenade Floating Lantern (Small)",
+      "price": 1690000,
+      "quantity": 15,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ruthless Challenger's Greaves",
+      "price": 1750000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Bracers",
+      "price": 1790000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fallen Defender's Supplementary Body Armor",
+      "price": 1799990,
+      "quantity": 8,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Small Imperial Workstation",
+      "price": 1800000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Stormcaller Tank",
+      "price": 1800000,
+      "quantity": 8,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Small Jedi Padawan Fountain Shrine",
+      "price": 1898000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 21,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Small Jedi Master Fountain Shrine",
+      "price": 1900000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Small Holo Table",
+      "price": 2000000,
+      "quantity": 7,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Arrangement: Power Station Table (Small)",
+      "price": 2000000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Alderaan Floor Medallion",
+      "price": 2350000,
+      "quantity": 10,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Archivist Wall Sconce (Single Light)",
+      "price": 2394999,
+      "quantity": 18,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Copero Wall Fountain",
+      "price": 2400000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Galactic Trade Network (Wall)",
+      "price": 2489995,
+      "quantity": 10,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Sith Temple Hall Light",
+      "price": 2499999,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Copero Galactic Trade Network (Wall)",
+      "price": 2499999,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Imperial Wall Sconce",
+      "price": 2500000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 22,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Enclave Grate Wall Light",
+      "price": 2500000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Moisture Farm Wall Planter (Narrow)",
+      "price": 2500240,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Small Imperial Wall Console",
+      "price": 2599999,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Astromech: Alliance",
+      "price": 2699999,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Small Stone Altar",
+      "price": 2709000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Statue of a Warrior's Call",
+      "price": 2750000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Secured Cargo Pallet",
+      "price": 2900000,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Yavin Mailbox (Wall)",
+      "price": 2950000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Iokath Alliance Officer",
+      "price": 3000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Alliance Emissary's Lower Robes",
+      "price": 3000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 23,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Moisture Farm Wall Planter (Wide)",
+      "price": 3000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Alliance Reconnaissance's Armor Set",
+      "price": 3099999,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fallen Defender's Armor Set",
+      "price": 3500000,
+      "quantity": 8,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Nar Shaddaa Galactic Trade Network (Wall)",
+      "price": 3799999,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Double Wall Section (Vaiken Spacedock)",
+      "price": 3987999,
+      "quantity": 15,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Radar Table (Small)",
+      "price": 3999999,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Double Wall Section (Carrick Station)",
+      "price": 4200000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Arrangement: Power Station Drinks Table (Small)",
+      "price": 4300000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fitted Sleheyron Callacord Helmet",
+      "price": 4500000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Dantooine Small Rock",
+      "price": 4550000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 24,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Arrangement: Copero City Market Stall",
+      "price": 4999999,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Invasive Spreading Wall Vines (Glowing Fruit)",
+      "price": 5000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fitted Bonadon Callacord Helmet",
+      "price": 5000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Large Imperial Wall Console",
+      "price": 5000000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Galactic Trade Network (Wall)",
+      "price": 5000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Iokath Forge Lavafall",
+      "price": 5300000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Alliance Consul's Dais",
+      "price": 5699000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Coruscant Galactic Trade Network (Wall)",
+      "price": 5989980,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Dread Wall Torch",
+      "price": 6000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Dantooine Fern (Wall)",
+      "price": 6850800,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 25,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Alliance Fighter",
+      "price": 6999999,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Merchant Stall: Droids",
+      "price": 7000000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ruthless Challenger's Gauntlets",
+      "price": 7525210,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Alliance Emissary's Armor Set",
+      "price": 8400000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Sporefall Tree (Potted)",
+      "price": 8400000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Yavin Galactic Trade Network (Wall)",
+      "price": 8449998,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Heavy Skytrooper: Alliance",
+      "price": 8799999,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Dromund Kaas Galactic Trade Network (Wall)",
+      "price": 8888999,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fallen Defender's Upper Body Armor",
+      "price": 9000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fallen Defender's Lower Body Armor",
+      "price": 9000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 26,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Challenger's Lightsaber",
+      "price": 9950000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 10,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Sporefall Stalk",
+      "price": 9999994,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ajunta Pall's Armor Set",
+      "price": 11000000,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ruthless Challenger's Boots",
+      "price": 11000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ruthless Challenger's Chestguard",
+      "price": 11425000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ruthless Challenger's Headgear",
+      "price": 13900000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Sporefall Diorama",
+      "price": 17000000,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Kick the Huttball",
+      "price": 17500000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Mandalorian Wall Sconce",
+      "price": 17500000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Black and Metallic Purple Dye Module",
+      "price": 17999999,
+      "quantity": 13,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 27,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Red and Metallic Pink Dye Module",
+      "price": 18000000,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Purple and Black Dye Module",
+      "price": 18999999,
+      "quantity": 17,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ajunta Pall's Belt",
+      "price": 19500500,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Underworld Alliance Pack",
+      "price": 19999999,
+      "quantity": 29,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Gallantry",
+      "price": 20000000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Fallen Revan's Lightsaber",
+      "price": 20735000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Greaves",
+      "price": 24780000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Pearlescent Green and Metallic Gold Dye Module",
+      "price": 24997999,
+      "quantity": 7,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Life Day Small Potted Tree",
+      "price": 25000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Red and Metallic Gold Dye Module",
+      "price": 25999999,
+      "quantity": 14,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 28,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Gold and Metallic Red Dye Module",
+      "price": 26549999,
+      "quantity": 11,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Wall Creep",
+      "price": 28490000,
+      "quantity": 6,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Cantina Bar Set (Small)",
+      "price": 29000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Chrome White and Metallic Gray Dye Module",
+      "price": 30000000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Ascendant's Alloy Boots",
+      "price": 30000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 27,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Gauntlets",
+      "price": 30000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Gray and Chrome White Dye Module",
+      "price": 31500000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Anomaly Wall Column",
+      "price": 34000000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Chrome White and Metallic Gold Dye Module",
+      "price": 37950000,
+      "quantity": 13,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Senya Tirall's Lightsaber",
+      "price": 39999999,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 29,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Matte Red and Metallic Red Dye Module",
+      "price": 40000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Red and Matte Red Dye Module",
+      "price": 40000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Life Day Snowball Cannon",
+      "price": 40000000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Belt",
+      "price": 40000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Gold and Chrome White Dye Module",
+      "price": 43999999,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Black and Chrome White Dye Module",
+      "price": 44500000,
+      "quantity": 2,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Chrome White and Metallic Black Dye Module",
+      "price": 46999999,
+      "quantity": 10,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Pearlescent Red and Metallic Black Dye Module",
+      "price": 47500000,
+      "quantity": 4,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Strategy Alliance Pack",
+      "price": 49900000,
+      "quantity": 29,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Breastplate",
+      "price": 50000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 30,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Black and Pearlescent Red Dye Module",
+      "price": 53999999,
+      "quantity": 15,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Black and Matte Black Dye Module",
+      "price": 60000000,
+      "quantity": 12,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Mask",
+      "price": 60000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Matte Black and Metallic Black Dye Module",
+      "price": 62000000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Metallic Purple and Black Dye Bundle",
+      "price": 70000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Underworld Challenger's Vest",
+      "price": 100000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 55,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Callous Conqueror's Armor Set",
+      "price": 104000000,
+      "quantity": 5,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Chrome White and Metallic Gold Dye Bundle",
+      "price": 138000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Beach Ball",
+      "price": 150000000,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Festive Snow Fall Weapon Tuning",
+      "price": 275000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 31,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Nightfall Operative Glasses",
+      "price": 398000000,
+      "quantity": 3,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 32,
+      "source": "User screenshot — GTN All search"
+    },
+    {
+      "item": "Hypercrate: Strategy Alliance Packs",
+      "price": 2999999999,
+      "quantity": 1,
+      "date": "2026-10-12T09:51:00-04:00",
+      "level": 1,
+      "page": 32,
+      "source": "User screenshot — GTN All search"
+    }
+  ]
 }
