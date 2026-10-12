@@ -24,3 +24,19 @@ A fan-made, static SWTOR Star Forge GTN material-price tracker for GitHub Pages.
 - Prices are listing observations, not completed sales, and recommendations are only simple heuristics.
 - No server-side price alerts, automatic scraping, or push notifications are included.
 - Fan project, not affiliated with EA, BioWare, or Lucasfilm.
+
+## Automatic community market feed (October 2026 upgrade)
+The dashboard checks `data/market.json` on load and every five minutes. This does **not** constitute a live connection to SWTOR's in-game GTN.
+
+An hourly GitHub Actions workflow is installed at `.github/workflows/refresh-market.yml`. It fetches observations only if an authorized HTTPS JSON provider is configured:
+1. Repository Settings → Secrets and variables → Actions → Variables.
+2. Add `GTN_FEED_URL` pointing to a legitimate Star Forge market JSON feed.
+3. Actions → Refresh Star Forge market feed → Run workflow.
+4. Ensure Settings → Actions → General → Workflow permissions allows Read and write.
+5. Confirm `data/market.json` has actual timestamped observations.
+
+Provider format:
+```json
+{"server":"Star Forge","source":"Provider name","observations":[{"item":"Legendary Ember","price":300000,"quantity":1,"date":"2026-10-12T08:00:00Z"}]}
+```
+Example is illustrative, **not a real listing**. No reliable public real-time SWTOR GTN API has been verified. Without an external provider, the feed deliberately remains empty; manually entered prices continue to work in the original tracker. The workflow cannot access game servers or bypass SWTOR restrictions.
