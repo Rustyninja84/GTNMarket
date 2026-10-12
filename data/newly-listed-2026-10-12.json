@@ -1,0 +1,189 @@
+{
+  "server": "Star Forge",
+  "category": "Newly Listed",
+  "observed_on": "2026-10-12",
+  "source": "User-provided GTN screenshots, 3 pages",
+  "notes": "Price is the displayed asking price, not verified transaction price. Quantity is GTN quantity shown.",
+  "items": [
+    {
+      "item": "Fitted Hapani Demicot Wristbands",
+      "level": 1,
+      "quantity": 4,
+      "asking_price": 1400
+    },
+    {
+      "item": "Fitted Adarian Nerf-Herder's Handwraps",
+      "level": 1,
+      "quantity": 5,
+      "asking_price": 2500
+    },
+    {
+      "item": "Masterwork Ancient Relic of Imperiling Serenity",
+      "level": 70,
+      "quantity": 14,
+      "asking_price": 4495
+    },
+    {
+      "item": "Masterwork Ancient Relic of Reactive Warding",
+      "level": 70,
+      "quantity": 12,
+      "asking_price": 4499
+    },
+    {
+      "item": "Fitted Mantellian Polyfibe Belt",
+      "level": 1,
+      "quantity": 4,
+      "asking_price": 4999
+    },
+    {
+      "item": "Fitted Huttese Street Gloves",
+      "level": 1,
+      "quantity": 3,
+      "asking_price": 5111
+    },
+    {
+      "item": "Primordial Assault Cannon",
+      "level": 1,
+      "quantity": 5,
+      "asking_price": 5399
+    },
+    {
+      "item": "Roche Scyk",
+      "level": 1,
+      "quantity": 12,
+      "asking_price": 17000
+    },
+    {
+      "item": "Roche Ice Cat",
+      "level": 1,
+      "quantity": 8,
+      "asking_price": 22000
+    },
+    {
+      "item": "Glowing Eyes - Gold",
+      "level": 1,
+      "quantity": 6,
+      "asking_price": 30000
+    },
+    {
+      "item": "Advanced Black-Orange Striated Hawkeye Crystal",
+      "level": 10,
+      "quantity": 1,
+      "asking_price": 94000
+    },
+    {
+      "item": "Artifact Duranium Armor Assembly Component",
+      "level": 1,
+      "quantity": 1888,
+      "asking_price": 99000
+    },
+    {
+      "item": "Thermal Pummeler's Armguards MK-3",
+      "level": 33,
+      "quantity": 1,
+      "asking_price": 100000
+    },
+    {
+      "item": "Fitted Dantoonian Trellised Jacket",
+      "level": 1,
+      "quantity": 1,
+      "asking_price": 105000
+    },
+    {
+      "item": "Absorb Augment 73",
+      "level": 73,
+      "quantity": 17,
+      "asking_price": 120000
+    },
+    {
+      "item": "Voss-ka Street Lamp",
+      "level": 1,
+      "quantity": 1,
+      "asking_price": 144999
+    },
+    {
+      "item": "Trash Bin",
+      "level": 1,
+      "quantity": 2,
+      "asking_price": 299000
+    },
+    {
+      "item": "Fitted Gamorrean Desh Breastplate",
+      "level": 1,
+      "quantity": 3,
+      "asking_price": 350000
+    },
+    {
+      "item": "Zakuulan Rug",
+      "level": 1,
+      "quantity": 8,
+      "asking_price": 449998
+    },
+    {
+      "item": "Alacrity Augment 83",
+      "level": 80,
+      "quantity": 66,
+      "asking_price": 525000
+    },
+    {
+      "item": "Fitted Blastguard Breastplate MKIII",
+      "level": 1,
+      "quantity": 2,
+      "asking_price": 980000
+    },
+    {
+      "item": "Zakuulan Oval Table",
+      "level": 1,
+      "quantity": 3,
+      "asking_price": 1000000
+    },
+    {
+      "item": "Classic Forward Recon Armor Set",
+      "level": 1,
+      "quantity": 2,
+      "asking_price": 1000000
+    },
+    {
+      "item": "Ventilated Triumvirate Armor Set",
+      "level": 1,
+      "quantity": 7,
+      "asking_price": 1950000
+    },
+    {
+      "item": "Flair: Blue Force Crystal",
+      "level": 1,
+      "quantity": 4,
+      "asking_price": 4999000
+    },
+    {
+      "item": "Mandalorian Jetpack Station",
+      "level": 1,
+      "quantity": 4,
+      "asking_price": 5999999
+    },
+    {
+      "item": "Commemorative Statue of Revan The Returned",
+      "level": 1,
+      "quantity": 3,
+      "asking_price": 10999999
+    },
+    {
+      "item": "Naval Officer Dye Module",
+      "level": 1,
+      "quantity": 5,
+      "asking_price": 28000000
+    },
+    {
+      "item": "Chrome White and Metallic Black Dye Module",
+      "level": 1,
+      "quantity": 10,
+      "asking_price": 46999999
+    },
+    {
+      "item": "Superior Absorb Augment 86",
+      "level": 80,
+      "quantity": 26,
+      "asking_price": 47431000
+    }
+  ]
+}
